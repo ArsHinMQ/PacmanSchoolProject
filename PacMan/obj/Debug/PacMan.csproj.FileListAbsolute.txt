@@ -1,0 +1,10 @@
+D:\md\پروژه ها\PacMan\PacMan\bin\Debug\PacMan.exe.config
+D:\md\پروژه ها\PacMan\PacMan\bin\Debug\PacMan.exe
+D:\md\پروژه ها\PacMan\PacMan\bin\Debug\PacMan.pdb
+D:\md\پروژه ها\PacMan\PacMan\obj\Debug\PacMan.csprojResolveAssemblyReference.cache
+D:\md\پروژه ها\PacMan\PacMan\obj\Debug\PacMan.PacManForm.resources
+D:\md\پروژه ها\PacMan\PacMan\obj\Debug\PacMan.Properties.Resources.resources
+D:\md\پروژه ها\PacMan\PacMan\obj\Debug\PacMan.csproj.GenerateResource.Cache
+D:\md\پروژه ها\PacMan\PacMan\obj\Debug\PacMan.exe
+D:\md\پروژه ها\PacMan\PacMan\obj\Debug\PacMan.pdb
+D:\md\پروژه ها\PacMan\PacMan\obj\Debug\PacMan.DashboardForm.resources

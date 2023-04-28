@@ -1,0 +1,26 @@
+D:\md\پروژه ها\PacMan\PacMan\bin\Release\PacMan.exe.config
+D:\md\پروژه ها\PacMan\PacMan\bin\Release\PacMan.exe
+D:\md\پروژه ها\PacMan\PacMan\bin\Release\PacMan.pdb
+D:\md\پروژه ها\PacMan\PacMan\obj\Release\PacMan.DashboardForm.resources
+D:\md\پروژه ها\PacMan\PacMan\obj\Release\PacMan.PacManForm.resources
+D:\md\پروژه ها\PacMan\PacMan\obj\Release\PacMan.Properties.Resources.resources
+D:\md\پروژه ها\PacMan\PacMan\obj\Release\PacMan.csproj.GenerateResource.Cache
+D:\md\پروژه ها\PacMan\PacMan\obj\Release\PacMan.exe
+D:\md\پروژه ها\PacMan\PacMan\obj\Release\PacMan.pdb
+D:\md\پروژه ها\PacMan\PacMan\obj\Release\PacMan.csprojResolveAssemblyReference.cache
+D:\md\projects\PacMan\PacMan\bin\Release\PacMan.exe.config
+D:\md\projects\PacMan\PacMan\obj\Release\PacMan.exe
+D:\md\projects\PacMan\PacMan\obj\Release\PacMan.pdb
+D:\md\projects\PacMan\PacMan\bin\Release\PacMan.exe
+D:\md\projects\PacMan\PacMan\bin\Release\PacMan.pdb
+D:\md\projects\PacMan\PacMan\obj\Release\PacMan.DashboardForm.resources
+D:\md\projects\PacMan\PacMan\obj\Release\PacMan.PacManForm.resources
+D:\md\projects\PacMan\PacMan\obj\Release\PacMan.Properties.Resources.resources
+D:\md\projects\PacMan\PacMan\obj\Release\PacMan.csproj.GenerateResource.Cache
+D:\md\projects\PacMan\PacMan\obj\Release\PacMan.Login.resources
+D:\md\projects\PacMan\PacMan\bin\Release\pacman.mdb
+D:\md\projects\PacMan\PacMan\bin\Release\PacMan.exe.manifest
+D:\md\projects\PacMan\PacMan\bin\Release\PacMan.application
+D:\md\projects\PacMan\PacMan\obj\Release\PacMan.csprojResolveAssemblyReference.cache
+D:\md\projects\PacMan\PacMan\obj\Release\PacMan.exe.manifest
+D:\md\projects\PacMan\PacMan\obj\Release\PacMan.application
