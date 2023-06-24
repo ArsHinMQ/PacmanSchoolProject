@@ -1,12 +1,12 @@
 # PacMan Game
 Goofy Pacman game made by C# & .Net Framework.
 
-This is a small, windows form app, school project I did for extra grades; but what the hell!
+This is a small, windows form app, school project I did for extra grades.
 
 ### Installation
-1- right click on ```setup.exe``` in current directory
-2- click ```run as adminstrator```
-3- Done!
+1. right click on ```setup.exe``` in current directory
+2. click ```run as adminstrator```
+3. Done!
 
 ## Database structure
 ```
